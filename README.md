@@ -52,29 +52,11 @@ DeepInsight is a groundbreaking technique that transforms tabular data into imag
 4. **Evaluation**: Analyze model performance and generate reports
 
 ## 📈 Expected Outcomes
-
 This approach aims to achieve:
 - **Enhanced detection accuracy** compared to traditional tabular ML methods
 - **Better feature representation** through spatial image mapping
-- **Leveraging pre-trained CNN architectures** for transfer learning
 - **Novel insights** into network traffic pattern visualization
 
-## 🔍 Research Applications
-
-Perfect for researchers and practitioners interested in:
-- **Cybersecurity and intrusion detection**
-- **Novel deep learning applications**
-- **Tabular-to-image transformation techniques**
-- **Computer vision for security analytics**
-- **Benchmark comparisons** with traditional ML approaches
-
-## 🤝 Contributing
-
-Contributions are welcome! Whether you're interested in:
-- Improving preprocessing techniques
-- Experimenting with different CNN architectures
-- Optimizing the DeepInsight transformation
-- Adding new evaluation metrics
 
 ## 📚 References
 - CIC-IDS-2017 Dataset: [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/datasets/ids-2017.html)
