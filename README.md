@@ -15,7 +15,7 @@ The Canadian Institute for Cybersecurity Intrusion Detection System 2017 (CIC-ID
 - **Real-world network traffic** captured over 5 days
 - **Multiple attack scenarios** including DoS, DDoS, Brute Force, XSS, SQL Injection, Infiltration, Port Scan, and Botnet
 - **Benign traffic patterns** for baseline comparison
-- **80+ network flow features** extracted from raw network packets
+- **70+ network flow features** extracted from raw network packets
 
 ## 🔬 DeepInsight Methodology
 DeepInsight is a groundbreaking technique that transforms tabular data into images while preserving feature relationships:
